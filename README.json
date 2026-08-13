@@ -1,0 +1,150 @@
+{
+  "items": [
+    {
+      "description": "⬆ Back to Top",
+      "items": [],
+      "title": "Benchmarks & Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research Papers"
+    },
+    {
+      "description": "This category focuses on utilizing Multimodal Large Language Models (MLLMs) like GPT-4V, LLaVA, or Qwen-VL to detect AI-generated content. These methods often provide natural language explanations (explainability) alongside binary detection.",
+      "items": [],
+      "title": "MLLM-Based"
+    },
+    {
+      "description": "This category includes supervised learning approaches that train neural networks (CNNs, ViTs, etc.) specifically to classify authentic vs. AI-generated content. They usually focus on robustness, generalization, and feature extraction.\n⬆ Back to Top",
+      "items": [],
+      "title": "Classification-Based"
+    },
+    {
+      "description": "⬆ Back to Top",
+      "items": [],
+      "title": "Competitions"
+    },
+    {
+      "description": "We are the Content Security Intelligence Team under Ant Group - Machine Intelligence. We are responsible for developing comprehensive content security and risk-mitigation capabilities for the Ant Group ecosystem, bridging the gap between rapidly evolving technologies and the urgent need for digital trust.",
+      "items": [],
+      "title": "🏢 About Our Team"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection | arXiv, 2026",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-30T04:59:03Z",
+                "owner": "EricTan7",
+                "repo": "VeritasPP",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning | ICML'26, 2026",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-30T14:16:05Z",
+                "owner": "EricTan7",
+                "repo": "VideoVeritas",
+                "stars": 33
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Locate-Then-Examine: Grounded Region Reasoning Improves Detection of AI-Generated Images | CVPR'26, 2026",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FakeXplain: AI-Generated Image Detection via Human-Aligned Grounded Reasoning | ICLR'26, 2026",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-14T03:10:49Z",
+                "owner": "Gennadiyev",
+                "repo": "FakeXplain",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Veritas: Generalizable deepfake detection via pattern-aware reasoning | ICLR'26 Oral, 2026",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-30T14:13:44Z",
+                "owner": "EricTan7",
+                "repo": "Veritas",
+                "stars": 121
+              }
+            }
+          ]
+        }
+      ],
+      "title": "📝 Academic Publications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:07.065Z",
+    "original_repository": "ant-research/Awesome-AIGC-Image-Video-Detection",
+    "original_repository_sha": "b2a31e176f77cbfe795c41753292f5bdff2b0047",
+    "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome AIGC Image/Video Detection with stars"
+  }
+}
