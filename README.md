@@ -29,7 +29,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 * [ChatGPT 图像 2.0 现已上线! 开启图像生成的新纪元](https://openai.com/zh-Hans-CN/index/introducing-chatgpt-images-2-0/)
 
-* [谷歌Gemini生图的暗水印，被印度小哥破解了，成功率90%，Github揽星3k+](https://github.com/aloshdenny/reverse-SynthID) ⭐ 4,762 | 🐛 18 | 🌐 Python | 📅 2026-07-17
+* [谷歌Gemini生图的暗水印，被印度小哥破解了，成功率90%，Github揽星3k+](https://github.com/aloshdenny/reverse-SynthID) ⭐ 4,766 | 🐛 18 | 🌐 Python | 📅 2026-07-17
 
 * [炸裂！技术力究极恐怖！米哈游蔡浩宇首款AI生成视频大模型LPM1.0曝光！自定义虚拟角色？支持多语言+无限真实+无限时长，实现自由对话、唱歌、表演等效果](https://www.bilibili.com/video/BV12SQwBEEZd/?vd_source=dc916dd94382a611d2fc7ba992618065)
 
@@ -135,7 +135,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title                                                                                                                                                             | Venue & Year      | Modality | Highlights/Keywords                                                                                  | Code                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113)                                          | Arxiv 2026        | `[I]`    | Value-aware On-Policy Distillation, Perception-Enhanced Reasoning                                    | [GitHub](https://github.com/EricTan7/VeritasPP) ⭐ 5 \| 🐛 2 \| 🌐 Python \| 📅 2026-07-30                     |
+| [Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113)                                          | Arxiv 2026        | `[I]`    | Value-aware On-Policy Distillation, Perception-Enhanced Reasoning                                    | [GitHub](https://github.com/EricTan7/VeritasPP) ⭐ 6 \| 🐛 2 \| 🌐 Python \| 📅 2026-07-30                     |
 | [Detecting AI-Generated Video: A Vision-Language Dual-View Survey](https://arxiv.org/abs/2607.10787)                                                              | ACL 2026 Findings | `[V]`    | \[Survey] Vision-Language Dual-View Taxonomy, Factual Fidelity Verification, Cross-modal Consistency | N/A                                                                                                           |
 | [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](https://arxiv.org/abs/2602.21716)                          | ICML 2026         | `[I]`    | Artifact feature and Semantic feature fusion                                                         | [GitHub](https://github.com/DreamMr/TranX-Adapter) ⭐ 19 \| 🐛 0 \| 🌐 Python \| 📅 2026-06-03                 |
 | [Venus-DeFakerOne: Unified Fake Image Detection & Localization](https://arxiv.org/pdf/2605.14091)                                                                 | Arxiv 2026        | `[I]`    | Unified Detection & Localization, Large-Scale Training                                               | [GitHub](https://github.com/venus-guangjian/Venus-DeFakerOne) ⭐ 31 \| 🐛 1 \| 📅 2026-05-15                   |
@@ -287,7 +287,7 @@ We are honored to collaborate with esteemed researchers and scholars in the fiel
 ### 📝 Academic Publications
 
 * **Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection** | *arXiv, 2026*
-  * [\[Paper\]](https://arxiv.org/abs/2607.27113) [\[Code\]](https://github.com/EricTan7/VeritasPP) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2026-07-30
+  * [\[Paper\]](https://arxiv.org/abs/2607.27113) [\[Code\]](https://github.com/EricTan7/VeritasPP) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-07-30
   * *Highlights:* Strengthened fine-grained visual perception for explainable AIGI detection through perception-oriented learning and value-aware on-policy distillation.
 * **VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning** | *ICML'26, 2026*
   * [\[Paper\]](https://arxiv.org/pdf/2602.08828) [\[Code\]](https://github.com/EricTan7/VideoVeritas) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2026-07-30
@@ -364,4 +364,4 @@ For questions or collaborations, please contact:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

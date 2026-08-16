@@ -49,7 +49,7 @@
                 "last_commit": "2026-07-30T04:59:03Z",
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
-                "stars": 5
+                "stars": 6
               }
             }
           ]
@@ -140,7 +140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:28:42.888Z",
+    "last_updated": "2026-08-16T20:29:35.798Z",
     "original_repository": "ant-research/Awesome-AIGC-Image-Video-Detection",
     "original_repository_sha": "b2a31e176f77cbfe795c41753292f5bdff2b0047",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
