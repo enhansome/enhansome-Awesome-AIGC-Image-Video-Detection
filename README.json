@@ -16,9 +16,39 @@
       "title": "MLLM-Based"
     },
     {
-      "description": "This category includes supervised learning approaches that train neural networks (CNNs, ViTs, etc.) specifically to classify authentic vs. AI-generated content. They usually focus on robustness, generalization, and feature extraction.\n⬆ Back to Top",
+      "description": "This category includes supervised learning approaches that train neural networks (CNNs, ViTs, VFMs, etc.) specifically to classify authentic vs. AI-generated content. They usually focus on robustness, generalization, and feature extraction. It is organized into six subcategories: Supervised General Detectors, Video Spatiotemporal Modeling, Training-Free / Zero-Shot, Frequency-Domain & Low-Level Artifacts, Continual & Incremental Learning, and Related & Other.",
       "items": [],
       "title": "Classification-Based"
+    },
+    {
+      "description": "Trainable classifiers and backbones (CNNs, ViTs, vision foundation models, CLIP-based adapters, few-shot and prompt-based methods) for general-purpose detection.",
+      "items": [],
+      "title": "Supervised General Detectors"
+    },
+    {
+      "description": "Methods that exploit temporal inconsistencies, motion patterns, and spatiotemporal artifacts in AI-generated videos.",
+      "items": [],
+      "title": "Video Spatiotemporal Modeling"
+    },
+    {
+      "description": "Methods that detect AI-generated content without additional training on detection data.",
+      "items": [],
+      "title": "Training-Free / Zero-Shot"
+    },
+    {
+      "description": "Methods based on spectral analysis, quantization/upsampling traces, and other low-level generative artifacts.",
+      "items": [],
+      "title": "Frequency-Domain & Low-Level Artifacts"
+    },
+    {
+      "description": "Methods that keep adapting detectors to evolving generators without catastrophic forgetting.",
+      "items": [],
+      "title": "Continual & Incremental Learning"
+    },
+    {
+      "description": "Papers related to AI-generated content safety (e.g., provenance/watermarking, misinformation verification) that do not fit the subcategories above.\n⬆ Back to Top",
+      "items": [],
+      "title": "Related & Other"
     },
     {
       "description": "⬆ Back to Top",
@@ -137,12 +167,17 @@
       "description": "",
       "items": [],
       "title": "Star History"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:29:35.798Z",
+    "last_updated": "2026-08-17T20:33:37.427Z",
     "original_repository": "ant-research/Awesome-AIGC-Image-Video-Detection",
-    "original_repository_sha": "b2a31e176f77cbfe795c41753292f5bdff2b0047",
+    "original_repository_sha": "11d0390b53a856caea15ad287503f168c287d77e",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
