@@ -100,7 +100,7 @@
                 "last_commit": "2026-07-30T14:16:05Z",
                 "owner": "EricTan7",
                 "repo": "VideoVeritas",
-                "stars": 33
+                "stars": 34
               }
             }
           ]
@@ -175,7 +175,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:33:37.427Z",
+    "last_updated": "2026-08-18T20:30:54.518Z",
     "original_repository": "ant-research/Awesome-AIGC-Image-Video-Detection",
     "original_repository_sha": "11d0390b53a856caea15ad287503f168c287d77e",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
