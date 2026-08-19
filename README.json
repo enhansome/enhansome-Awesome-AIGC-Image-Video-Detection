@@ -1,182 +1,111 @@
 {
   "items": [
     {
-      "description": "⬆ Back to Top",
-      "items": [],
-      "title": "Benchmarks & Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Research Papers"
-    },
-    {
-      "description": "This category focuses on utilizing Multimodal Large Language Models (MLLMs) like GPT-4V, LLaVA, or Qwen-VL to detect AI-generated content. These methods often provide natural language explanations (explainability) alongside binary detection.",
-      "items": [],
-      "title": "MLLM-Based"
-    },
-    {
-      "description": "This category includes supervised learning approaches that train neural networks (CNNs, ViTs, VFMs, etc.) specifically to classify authentic vs. AI-generated content. They usually focus on robustness, generalization, and feature extraction. It is organized into six subcategories: Supervised General Detectors, Video Spatiotemporal Modeling, Training-Free / Zero-Shot, Frequency-Domain & Low-Level Artifacts, Continual & Incremental Learning, and Related & Other.",
-      "items": [],
-      "title": "Classification-Based"
-    },
-    {
-      "description": "Trainable classifiers and backbones (CNNs, ViTs, vision foundation models, CLIP-based adapters, few-shot and prompt-based methods) for general-purpose detection.",
-      "items": [],
-      "title": "Supervised General Detectors"
-    },
-    {
-      "description": "Methods that exploit temporal inconsistencies, motion patterns, and spatiotemporal artifacts in AI-generated videos.",
-      "items": [],
-      "title": "Video Spatiotemporal Modeling"
-    },
-    {
-      "description": "Methods that detect AI-generated content without additional training on detection data.",
-      "items": [],
-      "title": "Training-Free / Zero-Shot"
-    },
-    {
-      "description": "Methods based on spectral analysis, quantization/upsampling traces, and other low-level generative artifacts.",
-      "items": [],
-      "title": "Frequency-Domain & Low-Level Artifacts"
-    },
-    {
-      "description": "Methods that keep adapting detectors to evolving generators without catastrophic forgetting.",
-      "items": [],
-      "title": "Continual & Incremental Learning"
-    },
-    {
-      "description": "Papers related to AI-generated content safety (e.g., provenance/watermarking, misinformation verification) that do not fit the subcategories above.\n⬆ Back to Top",
-      "items": [],
-      "title": "Related & Other"
-    },
-    {
-      "description": "⬆ Back to Top",
-      "items": [],
-      "title": "Competitions"
-    },
-    {
       "description": "We are the Content Security Intelligence Team under Ant Group - Machine Intelligence. We are responsible for developing comprehensive content security and risk-mitigation capabilities for the Ant Group ecosystem, bridging the gap between rapidly evolving technologies and the urgent need for digital trust.",
-      "items": [],
-      "title": "🏢 About Our Team"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "group",
-          "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection | arXiv, 2026",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "[Paper]",
-              "description": "[Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-07-30T04:59:03Z",
-                "owner": "EricTan7",
-                "repo": "VeritasPP",
-                "stars": 6
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning | ICML'26, 2026",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "[Paper]",
-              "description": "[Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-07-30T14:16:05Z",
-                "owner": "EricTan7",
-                "repo": "VideoVeritas",
-                "stars": 34
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Locate-Then-Examine: Grounded Region Reasoning Improves Detection of AI-Generated Images | CVPR'26, 2026",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "[Code]",
+              "node_type": "group",
+              "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection | arXiv, 2026",
               "description": null,
-              "children": []
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "FakeXplain: AI-Generated Image Detection via Human-Aligned Grounded Reasoning | ICLR'26, 2026",
-          "description": null,
-          "children": [
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1315117544,
+                    "language": "Python",
+                    "last_commit": "2026-07-30T04:59:03Z",
+                    "owner": "EricTan7",
+                    "repo": "VeritasPP",
+                    "stars": 6
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "[Paper]",
-              "description": "[Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2026-02-14T03:10:49Z",
-                "owner": "Gennadiyev",
-                "repo": "FakeXplain",
-                "stars": 1
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Veritas: Generalizable deepfake detection via pattern-aware reasoning | ICLR'26 Oral, 2026",
-          "description": null,
-          "children": [
+              "node_type": "group",
+              "title": "VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning | ICML'26, 2026",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1153665957,
+                    "language": "Python",
+                    "last_commit": "2026-07-30T14:16:05Z",
+                    "owner": "EricTan7",
+                    "repo": "VideoVeritas",
+                    "stars": 34
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "[Paper]",
-              "description": "[Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-07-30T14:13:44Z",
-                "owner": "EricTan7",
-                "repo": "Veritas",
-                "stars": 122
-              }
+              "node_type": "group",
+              "title": "FakeXplain: AI-Generated Image Detection via Human-Aligned Grounded Reasoning | ICLR'26, 2026",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1157610337,
+                    "language": null,
+                    "last_commit": "2026-02-14T03:10:49Z",
+                    "owner": "Gennadiyev",
+                    "repo": "FakeXplain",
+                    "stars": 1
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Veritas: Generalizable deepfake detection via pattern-aware reasoning | ICLR'26 Oral, 2026",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1046156899,
+                    "language": "Python",
+                    "last_commit": "2026-07-30T14:13:44Z",
+                    "owner": "EricTan7",
+                    "repo": "Veritas",
+                    "stars": 122
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📝 Academic Publications"
         }
       ],
-      "title": "📝 Academic Publications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
+      "title": "🏢 About Our Team"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:30:54.518Z",
+    "last_updated": "2026-08-19T12:05:53.698Z",
     "original_repository": "ant-research/Awesome-AIGC-Image-Video-Detection",
+    "original_repository_id": 1192211679,
     "original_repository_sha": "11d0390b53a856caea15ad287503f168c287d77e",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
