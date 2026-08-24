@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T09:48:37Z",
             "owner": "24029100313",
             "repo": "RA-Bench",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -996,7 +996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:06.636Z",
+    "last_updated": "2026-08-24T20:37:09.729Z",
     "original_repository": "ant-research/Awesome-AIGC-Image-Video-Detection",
     "original_repository_id": 1192211679,
     "original_repository_sha": "b93da8d9291ea083c5e3bbaf009a9f2484767545",
