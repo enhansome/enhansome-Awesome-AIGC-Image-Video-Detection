@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T09:48:37Z",
             "owner": "24029100313",
             "repo": "RA-Bench",
-            "stars": 75
+            "stars": 79
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-11T13:59:51Z",
             "owner": "ICTMCG",
             "repo": "Fleet",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-04-28T06:31:26Z",
             "owner": "YZY-stack",
             "repo": "DF40",
-            "stars": 346
+            "stars": 347
           }
         }
       ],
@@ -278,7 +278,7 @@
                 "last_commit": "2026-05-25T13:35:52Z",
                 "owner": "zhipeixu",
                 "repo": "GenShield",
-                "stars": 102
+                "stars": 103
               }
             },
             {
@@ -497,7 +497,7 @@
                     "last_commit": "2026-08-11T13:59:51Z",
                     "owner": "ICTMCG",
                     "repo": "Fleet",
-                    "stars": 6
+                    "stars": 7
                   }
                 },
                 {
@@ -996,9 +996,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:12:01.825Z",
-    "original_repository": "ant-research/Awesome-AIGC-Image-Video-Detection",
-    "original_repository_id": 1192211679,
+    "last_updated": "2026-08-27T11:21:02.432Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1192211679,
+      "language": null,
+      "last_commit": "2026-08-24T04:46:17Z",
+      "owner": "ant-research",
+      "repo": "Awesome-AIGC-Image-Video-Detection",
+      "stars": 439
+    },
     "original_repository_sha": "b93da8d9291ea083c5e3bbaf009a9f2484767545",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
