@@ -31,7 +31,7 @@
             "last_commit": "2026-08-17T09:48:37Z",
             "owner": "24029100313",
             "repo": "RA-Bench",
-            "stars": 82
+            "stars": 86
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -1055,17 +1055,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:08:33.742Z",
+    "last_updated": "2026-08-29T02:46:39.051Z",
     "original_repository_info": {
       "archived": false,
       "id": 1192211679,
       "language": null,
-      "last_commit": "2026-08-24T04:46:17Z",
+      "last_commit": "2026-08-28T06:00:22Z",
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 440
+      "stars": 441
     },
-    "original_repository_sha": "b93da8d9291ea083c5e3bbaf009a9f2484767545",
+    "original_repository_sha": "304a94f3ec955f1deb2cb3a86258436ad33b86a4",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
