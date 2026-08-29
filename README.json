@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "24029100313",
             "repo": "RA-Bench",
-            "stars": 86,
+            "stars": 89,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "ICTMCG",
             "repo": "Fleet",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -723,7 +723,7 @@
                     "open_issues": 1,
                     "owner": "ICTMCG",
                     "repo": "Fleet",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1207,7 +1207,7 @@
                     "open_issues": 26,
                     "owner": "chuangchuangtan",
                     "repo": "NPR-DeepfakeDetection",
-                    "stars": 312,
+                    "stars": 311,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:10.294Z",
+    "last_updated": "2026-08-29T22:32:42.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1420,7 +1420,7 @@
       "open_issues": 0,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 441,
+      "stars": 442,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
