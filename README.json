@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🔥🔥 [ACM MM 2026] Official code release of our paper \"AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation\" AI生成图像缺陷检测、定位和解释一体化",
+            "homepage": null,
             "id": 1297057472,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-11T02:56:01Z",
+            "open_issues": 0,
             "owner": "sxfly99",
             "repo": "AGIDefect-4K",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -26,12 +31,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-event-anchored benchmark for detecting AI-generated videos in real-world crisis settings.",
+            "homepage": "https://ra-bench-crisis-video.yxgma811120.chatgpt.site/",
             "id": 1332599518,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-17T09:48:37Z",
+            "open_issues": 0,
             "owner": "24029100313",
             "repo": "RA-Bench",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "ai-generated-video",
+              "benchmark",
+              "crisis-events",
+              "dataset",
+              "deepfake-detection",
+              "multimodal",
+              "video-forensics"
+            ]
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1248439447,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T13:59:51Z",
+            "open_issues": 1,
             "owner": "ICTMCG",
             "repo": "Fleet",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -58,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoCoVideo: The High-Quality Commercial-Model-Based Contrastive Benchmark for AI-Generated Video Detection",
+            "homepage": null,
             "id": 1191369082,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-12T06:17:43Z",
+            "open_issues": 1,
             "owner": "DonoToT",
             "repo": "CoCoVideo",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the AAAI2026 paper (Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach)",
+            "homepage": null,
             "id": 967329654,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-04-24T07:19:40Z",
+            "open_issues": 6,
             "owner": "clpbc",
             "repo": "BR-Gen",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -90,12 +123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beyond Artifacts: Real-Centric Envelope Modeling (REM) for reliable AI-generated image detection.   Includes the RealChain benchmark featuring emerging generators and chain degradations for realistic evaluation.",
+            "homepage": null,
             "id": 1185309951,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-18T13:46:00Z",
+            "open_issues": 2,
             "owner": "handsome-rich",
             "repo": "REM",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -106,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeXT-IMDL: Build Benchmark for NeXT-Generation Image Manipulation Detection & Localization",
+            "homepage": null,
             "id": 983627985,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-29T09:20:15Z",
+            "open_issues": 0,
             "owner": "JoeLeelyf",
             "repo": "NeXT-IMDL",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -122,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for CVPR 2025 paper: OpenSDI: Spotting Diffusion-Generated Images in the Open World",
+            "homepage": null,
             "id": 940312528,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-18T11:36:51Z",
+            "open_issues": 0,
             "owner": "iamwangyabin",
             "repo": "OpenSDI",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -138,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1228433809,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-09T03:58:30Z",
+            "open_issues": 0,
             "owner": "RewardBench",
             "repo": "XAIGID-RewardBench",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -154,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurlPS 2025] A Unified Benchmark & Codebase for All-Domain Fake Image Detection and Localization",
+            "homepage": "https://scu-zjz.github.io/ForensicHub-doc/",
             "id": 965437332,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-07-27T03:45:15Z",
+            "open_issues": 17,
             "owner": "scu-zjz",
             "repo": "ForensicHub",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         },
@@ -170,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the next-generation deepfake detection dataset (DF40), comprising 40 distinct deepfake techniques, even the just released SoTAs. Our work has been accepted by NeurIPS 2024.",
+            "homepage": null,
             "id": 817237751,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-28T06:31:26Z",
+            "open_issues": 15,
             "owner": "YZY-stack",
             "repo": "DF40",
-            "stars": 347
+            "stars": 347,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
         }
@@ -194,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥🔥🔥 [ACM MM 2026] Official code release of our paper \"AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation\" AI生成图像缺陷检测、定位和解释一体化",
+                "homepage": null,
                 "id": 1297057472,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-11T02:56:01Z",
+                "open_issues": 0,
                 "owner": "sxfly99",
                 "repo": "AGIDefect-4K",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -210,12 +278,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACM MM 2026] Explainable Deepfake Detection with Feature-robust Augmentation and Evidence-grounded Explanation Optimization",
+                "homepage": "https://xzpku.github.io/edd.github.io/",
                 "id": 1335582721,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-16T03:30:32Z",
+                "open_issues": 0,
                 "owner": "oceanflowlab",
                 "repo": "EDD",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "deepfake-detection",
+                  "explainable-ai",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -226,12 +303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.",
+                "homepage": null,
                 "id": 1272091225,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-01T08:37:04Z",
+                "open_issues": 1,
                 "owner": "yqli00000",
                 "repo": "PATE-Forensics",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -242,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1315117544,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:02:21Z",
+                "open_issues": 1,
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -258,12 +345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for TranX-Adapter (ICML 2026)",
+                "homepage": null,
                 "id": 1145802151,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-03T10:06:50Z",
+                "open_issues": 0,
                 "owner": "DreamMr",
                 "repo": "TranX-Adapter",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -274,12 +366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unified foundation model for FIDL.",
+                "homepage": null,
                 "id": 1237761311,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-15T03:38:35Z",
+                "open_issues": 1,
                 "owner": "venus-guangjian",
                 "repo": "Venus-DeFakerOne",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -290,12 +387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 [ICML 2026] GenShield: Unified Detection and Artifact Correction for AI-Generated Images",
+                "homepage": null,
                 "id": 1239940446,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-25T13:35:52Z",
+                "open_issues": 5,
                 "owner": "zhipeixu",
                 "repo": "GenShield",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -306,12 +408,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection",
+                "homepage": "https://ivg-yanranzhang.github.io/UniGenDet/",
                 "id": 1183000647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-11T17:47:37Z",
+                "open_issues": 2,
                 "owner": "Zhangyr2022",
                 "repo": "UniGenDet",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "ai-generated-image-detection",
+                  "generation"
+                ]
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -322,12 +432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2026] VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning",
+                "homepage": null,
                 "id": 1153665957,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T14:16:05Z",
+                "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "VideoVeritas",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -338,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2026 Oral] Veritas: Generalizable Deepfake Detection via Pattern-Aware Reasoning.",
+                "homepage": null,
                 "id": 1046156899,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T14:13:44Z",
+                "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "Veritas",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -354,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1065502517,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-02T19:52:17Z",
+                "open_issues": 2,
                 "owner": "kyoungjunpark",
                 "repo": "VidGuard-R1",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -370,12 +495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1102774156,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T11:09:47Z",
+                "open_issues": 1,
                 "owner": "suncore946",
                 "repo": "AgentFoX",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -386,12 +516,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BusterX and BusterX++",
+                "homepage": null,
                 "id": 987922351,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-16T04:45:25Z",
+                "open_issues": 0,
                 "owner": "l8cv",
                 "repo": "BusterX",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "aigc",
+                  "aigc-detection",
+                  "benchmark",
+                  "deepfake",
+                  "deepfake-detection",
+                  "llm",
+                  "mllm",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -402,12 +546,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BusterX and BusterX++",
+                "homepage": null,
                 "id": 987922351,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-16T04:45:25Z",
+                "open_issues": 0,
                 "owner": "l8cv",
                 "repo": "BusterX",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "aigc",
+                  "aigc-detection",
+                  "benchmark",
+                  "deepfake",
+                  "deepfake-detection",
+                  "llm",
+                  "mllm",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -418,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025 🔥] FakeVLM: Advancing Synthetic Image Detection through Explainable Multimodal Models and Fine-Grained Artifact Analysis",
+                "homepage": null,
                 "id": 950679421,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-24T09:21:20Z",
+                "open_issues": 7,
                 "owner": "opendatalab",
                 "repo": "FakeVLM",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -434,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICCV 2025)This repository is the official implementation of AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models",
+                "homepage": null,
                 "id": 1011702990,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-22T04:09:30Z",
+                "open_issues": 11,
                 "owner": "wyczzy",
                 "repo": "AIGI-Holmes",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -450,12 +618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV25 Highlight] The official implementation of the paper \"LEGION: Learning to Ground and Explain for Synthetic Image Detection\"",
+                "homepage": "https://opendatalab.github.io/LEGION",
                 "id": 950678438,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-22T08:28:55Z",
+                "open_issues": 11,
                 "owner": "opendatalab",
                 "repo": "LEGION",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -466,12 +639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The offical repository of \"SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model\"",
+                "homepage": null,
                 "id": 898481521,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-06T09:32:28Z",
+                "open_issues": 4,
                 "owner": "hzlsaber",
                 "repo": "SIDA",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -482,12 +660,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models",
+                "homepage": "https://zhipeixu.github.io/projects/FakeShield/",
                 "id": 866886910,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-21T10:46:34Z",
+                "open_issues": 36,
                 "owner": "zhipeixu",
                 "repo": "FakeShield",
-                "stars": 621
+                "stars": 621,
+                "topics": [
+                  "ifdl",
+                  "mllm"
+                ]
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             },
@@ -498,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of AntifakePrompt.",
+                "homepage": null,
                 "id": 710304824,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-15T17:17:45Z",
+                "open_issues": 6,
                 "owner": "nctu-eva-lab",
                 "repo": "AntifakePrompt",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
             }
@@ -523,12 +714,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1248439447,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-11T13:59:51Z",
+                    "open_issues": 1,
                     "owner": "ICTMCG",
                     "repo": "Fleet",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -539,12 +735,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of ICML 2026 paper \"PGC: Peak-Guided Calibration for Generalizable AI-Generated Image Detection\"",
+                    "homepage": null,
                     "id": 1235288917,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-19T08:39:25Z",
+                    "open_issues": 0,
                     "owner": "xiaoyu6868",
                     "repo": "PGC",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -555,12 +756,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reduce the Artifacts Bias for More Generalizable AI-Generated Image Detection",
+                    "homepage": null,
                     "id": 1237419902,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-05-13T07:02:44Z",
+                    "open_issues": 1,
                     "owner": "liyih",
                     "repo": "SEF_AIGC_detection",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -571,12 +777,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repository for the AAAI2026 paper (Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach)",
+                    "homepage": null,
                     "id": 967329654,
                     "language": "Python",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2026-04-24T07:19:40Z",
+                    "open_issues": 6,
                     "owner": "clpbc",
                     "repo": "BR-Gen",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -587,12 +798,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1147740604,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-04-22T09:32:01Z",
+                    "open_issues": 5,
                     "owner": "handsome-rich",
                     "repo": "MIRROR",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -603,12 +819,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "「ICML 2026」Official PyTorch Code for \"OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild\".",
+                    "homepage": "https://yunncheng.github.io/OmniAID/",
                     "id": 1107112501,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-26T06:19:59Z",
+                    "open_issues": 1,
                     "owner": "yunncheng",
                     "repo": "OmniAID",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "ai-generated-image-detection",
+                      "ai-generated-images"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -619,12 +843,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is implementation of Dino-Detect",
+                    "homepage": null,
                     "id": 1097444190,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-01T15:50:03Z",
+                    "open_issues": 1,
                     "owner": "JiaLiangShen",
                     "repo": "Dino-Detect-for-blur-robust-AIGC-Detection",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -635,12 +864,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 956589572,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-14T17:57:24Z",
+                    "open_issues": 4,
                     "owner": "grip-unina",
                     "repo": "B-Free",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -651,12 +885,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code for Forensics Adapter (CVPR'25).",
+                    "homepage": null,
                     "id": 893399586,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-18T00:24:40Z",
+                    "open_issues": 8,
                     "owner": "OUC-VAS",
                     "repo": "ForensicsAdapter",
-                    "stars": 112
+                    "stars": 112,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -667,12 +906,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation for FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection",
+                    "homepage": null,
                     "id": 803292107,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-11-27T22:12:09Z",
+                    "open_issues": 0,
                     "owner": "10Ring",
                     "repo": "FakeFormer",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -690,12 +934,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1080457906,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-18T11:17:38Z",
+                    "open_issues": 4,
                     "owner": "grip-unina",
                     "repo": "WaveRep-SyntheticVideoDetection",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -706,12 +955,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AI-Generated Video Detection via Perceptual Straightening (NeurIPS2025)",
+                    "homepage": "https://neurips.cc/virtual/2025/loc/san-diego/poster/118520",
                     "id": 1063266075,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-23T10:31:33Z",
+                    "open_issues": 2,
                     "owner": "ChristianInterno",
                     "repo": "ReStraV",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": [
+                      "aidetection",
+                      "aisafety",
+                      "aivideo",
+                      "cognitive-neuroscience",
+                      "computer-vision",
+                      "deepfake-detection",
+                      "detection-algorithm",
+                      "geometric-deep-learning",
+                      "videogeneration"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -722,12 +986,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2025 Spotlight] \"Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection\"",
+                    "homepage": null,
                     "id": 1070654347,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-23T04:48:05Z",
+                    "open_issues": 5,
                     "owner": "ZSHsh98",
                     "repo": "NSG-VD",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -738,12 +1007,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository is the code of paper 'DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark'.",
+                    "homepage": null,
                     "id": 782876227,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-24T02:19:16Z",
+                    "open_issues": 15,
                     "owner": "chenhaoxing",
                     "repo": "DeMamba",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -761,12 +1035,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official reproducibility package for training-free image-edit localization from frozen DINO patch-token drift",
+                    "homepage": null,
                     "id": 1328515193,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T17:22:04Z",
+                    "open_issues": 0,
                     "owner": "VishalJ99",
                     "repo": "trail-image-edit-localization",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "computer-vision",
+                      "dinov3",
+                      "image-forensics",
+                      "localization",
+                      "reproducible-research"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -777,12 +1062,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1274082252,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-07T01:18:49Z",
+                    "open_issues": 1,
                     "owner": "mldljyh",
                     "repo": "SPLIT",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -793,12 +1083,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] \"Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods\"",
+                    "homepage": "https://omerbenhayun.github.io/stall-video/",
                     "id": 1173546297,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-24T06:47:50Z",
+                    "open_issues": 0,
                     "owner": "OmerBenHayun",
                     "repo": "STALL",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -816,12 +1111,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository is the official implementation of NeurIPS 2025 Paper \"Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable\".",
+                    "homepage": null,
                     "id": 1062270539,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-24T09:12:36Z",
+                    "open_issues": 1,
                     "owner": "roy-ch",
                     "repo": "Dual-Data-Alignment",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -832,12 +1132,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] D^3QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection",
+                    "homepage": "https://ivg-yanranzhang.github.io/D3QE/",
                     "id": 1023496845,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-11T17:48:22Z",
+                    "open_issues": 1,
                     "owner": "Zhangyr2022",
                     "repo": "D3QE",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "ai-generated-image-detection",
+                      "auto-regressive-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -848,12 +1156,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 972054995,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-03T20:14:35Z",
+                    "open_issues": 0,
                     "owner": "kartyg23",
                     "repo": "spai",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -864,12 +1177,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 731913513,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-15T06:57:24Z",
+                    "open_issues": 4,
                     "owner": "chuangchuangtan",
                     "repo": "FreqNet-DeepfakeDetection",
-                    "stars": 156
+                    "stars": 157,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 },
@@ -880,12 +1198,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 732377815,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-01T01:20:29Z",
+                    "open_issues": 26,
                     "owner": "chuangchuangtan",
                     "repo": "NPR-DeepfakeDetection",
-                    "stars": 312
+                    "stars": 312,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -903,12 +1226,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implement of \"IncreFA: Breaking the Static Wall of Generative Model Attribution\". ",
+                    "homepage": null,
                     "id": 1170474332,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-04-21T03:46:27Z",
+                    "open_issues": 2,
                     "owner": "Ant0ny44",
                     "repo": "IncreFA",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -926,12 +1254,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Robust ASIC-Based Image Authentication Using Reed-Solomon LSB Watermarking: A Hardware-Bound Proof-of-Work Approach",
+                    "homepage": null,
                     "id": 1133066302,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-11T01:25:53Z",
+                    "open_issues": 0,
                     "owner": "Agnuxo1",
                     "repo": "Secure_image_generation_with_ASIC_signature",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -965,12 +1298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1315117544,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T11:02:21Z",
+                    "open_issues": 1,
                     "owner": "EricTan7",
                     "repo": "VeritasPP",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -988,12 +1326,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2026] VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning",
+                    "homepage": null,
                     "id": 1153665957,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-30T14:16:05Z",
+                    "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "VideoVeritas",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -1011,12 +1354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fine-tuned VLMs for Detecting AI-Generated Images (ICLR 2026)",
+                    "homepage": null,
                     "id": 1157610337,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-02-14T03:10:49Z",
+                    "open_issues": 1,
                     "owner": "Gennadiyev",
                     "repo": "FakeXplain",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -1034,12 +1382,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2026 Oral] Veritas: Generalizable Deepfake Detection via Pattern-Aware Reasoning.",
+                    "homepage": null,
                     "id": 1046156899,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-30T14:13:44Z",
+                    "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "Veritas",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
                 }
@@ -1055,15 +1408,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:46:39.051Z",
+    "last_updated": "2026-08-29T04:43:10.294Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
+      "homepage": "https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection",
       "id": 1192211679,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-08-28T06:00:22Z",
+      "open_issues": 0,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 441
+      "stars": 441,
+      "topics": [
+        "ai-generated-detection",
+        "ai-generated-image-detection",
+        "aigc-detection",
+        "awesome-list",
+        "multimodal-large-language-models"
+      ]
     },
     "original_repository_sha": "304a94f3ec955f1deb2cb3a86258436ad33b86a4",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
