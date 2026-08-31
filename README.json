@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 93,
+            "stars": 97,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -212,7 +212,7 @@
             "id": 965437332,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-07-27T03:45:15Z",
+            "last_commit": "2026-08-31T16:13:19Z",
             "open_issues": 17,
             "owner": "scu-zjz",
             "repo": "ForensicHub",
@@ -525,7 +525,7 @@
                 "open_issues": 0,
                 "owner": "l8cv",
                 "repo": "BusterX",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "aigc",
                   "aigc-detection",
@@ -555,7 +555,7 @@
                 "open_issues": 0,
                 "owner": "l8cv",
                 "repo": "BusterX",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "aigc",
                   "aigc-detection",
@@ -669,7 +669,7 @@
                 "open_issues": 36,
                 "owner": "zhipeixu",
                 "repo": "FakeShield",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "ifdl",
                   "mllm"
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:36:17.172Z",
+    "last_updated": "2026-08-31T23:40:55.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
