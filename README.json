@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 97,
+            "stars": 100,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "ICTMCG",
             "repo": "Fleet",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -90,7 +90,7 @@
             "open_issues": 1,
             "owner": "DonoToT",
             "repo": "CoCoVideo",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -129,7 +129,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-18T13:46:00Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "handsome-rich",
             "repo": "REM",
             "stars": 13,
@@ -396,7 +396,7 @@
                 "open_issues": 5,
                 "owner": "zhipeixu",
                 "repo": "GenShield",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -483,7 +483,7 @@
                 "open_issues": 2,
                 "owner": "kyoungjunpark",
                 "repo": "VidGuard-R1",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -669,7 +669,7 @@
                 "open_issues": 36,
                 "owner": "zhipeixu",
                 "repo": "FakeShield",
-                "stars": 622,
+                "stars": 623,
                 "topics": [
                   "ifdl",
                   "mllm"
@@ -709,6 +709,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "FUSED: Forensic-Semantic Mixture-of-Experts for AI Inpainting Detection and Localization",
+                  "description": "Arxiv 2026  Forensic-Semantic MoE, Joint Detection & Localization, Cross-generator Generalization (OpenSDID) GitHub",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official code for \"FUSED: Forensic–Semantic Mixture-of-Experts for AI Inpainting Detection and Localization\"",
+                    "homepage": "https://arxiv.org/abs/2608.28302",
+                    "id": 1350930497,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-08-31T16:10:12Z",
+                    "open_issues": 0,
+                    "owner": "AntonNuzhdin",
+                    "repo": "FUSED",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-01T22:30:29.905Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Fleet: Few Shots Lead Effective AI-generated Image Detection",
                   "description": "ICML 2026  Few-shot Adaptation, Routing Correction, Treasure Benchmark GitHub",
                   "children": [],
@@ -723,7 +744,7 @@
                     "open_issues": 1,
                     "owner": "ICTMCG",
                     "repo": "Fleet",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -744,7 +765,7 @@
                     "open_issues": 0,
                     "owner": "xiaoyu6868",
                     "repo": "PGC",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -940,7 +961,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-18T11:17:38Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "grip-unina",
                     "repo": "WaveRep-SyntheticVideoDetection",
                     "stars": 29,
@@ -1071,7 +1092,7 @@
                     "open_issues": 1,
                     "owner": "mldljyh",
                     "repo": "SPLIT",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1092,7 +1113,7 @@
                     "open_issues": 0,
                     "owner": "OmerBenHayun",
                     "repo": "STALL",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1408,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:40:55.485Z",
+    "last_updated": "2026-09-01T22:30:29.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1416,11 +1437,11 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-08-28T06:00:22Z",
+      "last_commit": "2026-09-01T13:29:12Z",
       "open_issues": 0,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 442,
+      "stars": 443,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
@@ -1429,7 +1450,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "304a94f3ec955f1deb2cb3a86258436ad33b86a4",
+    "original_repository_sha": "5f24bf9f8f0e851abaae82cd85051a2a641962ca",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
