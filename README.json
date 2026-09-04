@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 103,
+            "stars": 104,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -212,7 +212,7 @@
             "id": 965437332,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-31T16:13:19Z",
+            "last_commit": "2026-09-04T10:47:36Z",
             "open_issues": 17,
             "owner": "scu-zjz",
             "repo": "ForensicHub",
@@ -441,7 +441,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "VideoVeritas",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -585,7 +585,7 @@
                 "open_issues": 7,
                 "owner": "opendatalab",
                 "repo": "FakeVLM",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1092,7 +1092,7 @@
                     "open_issues": 1,
                     "owner": "mldljyh",
                     "repo": "SPLIT",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1356,7 +1356,7 @@
                     "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "VideoVeritas",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:27:34.945Z",
+    "last_updated": "2026-09-04T22:16:33.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
