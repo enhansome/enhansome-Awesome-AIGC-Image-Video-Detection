@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 108,
+            "stars": 110,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "ICTMCG",
             "repo": "Fleet",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -108,7 +108,7 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-04-24T07:19:40Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "clpbc",
             "repo": "BR-Gen",
             "stars": 30,
@@ -216,7 +216,7 @@
             "open_issues": 17,
             "owner": "scu-zjz",
             "repo": "ForensicHub",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -250,6 +250,27 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Evidence-Guided Detection, Localization and Explanation for Text-Centric Image Forensics",
+              "description": "ACM MM 2026 Challenge  Detector-Localizer-Reasoner Cascade, Iterative Difficulty-Aware Mining, Report-Mask Consistency GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1336874553,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-08T12:34:19Z",
+                "open_issues": 0,
+                "owner": "peifengLiu42",
+                "repo": "ACMMM26-evidence-guided-detector-localizer-reasoner-system",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-08T22:29:59.475Z"
+            },
             {
               "node_type": "item",
               "title": "AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation",
@@ -396,7 +417,7 @@
                 "open_issues": 5,
                 "owner": "zhipeixu",
                 "repo": "GenShield",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -462,7 +483,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "Veritas",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -744,7 +765,7 @@
                     "open_issues": 1,
                     "owner": "ICTMCG",
                     "repo": "Fleet",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -804,7 +825,7 @@
                     "language": "Python",
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-04-24T07:19:40Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "clpbc",
                     "repo": "BR-Gen",
                     "stars": 30,
@@ -948,6 +969,27 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mind the Rift: Cross-Scale Coupling Mismatch for AI-Generated Video Detection",
+                  "description": "ACM MM 2026  Cross-Scale Coupling Mismatch, Macro Temporal Dynamics vs. Pixel-Level Residuals, Persistent Homology, Encoder-Agnostic GitHub",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1196204881,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-04T07:46:04Z",
+                    "open_issues": 1,
+                    "owner": "Litsay",
+                    "repo": "RIFT",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-08T22:29:59.475Z"
+                },
                 {
                   "node_type": "item",
                   "title": "Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation",
@@ -1242,6 +1284,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Preserving Knowledge across Space and Time for Continual Video Deepfake Detection",
+                  "description": "ECCV 2026  Modality-Specific Frequency Distillation, Spatial/Temporal/Spatiotemporal Decomposition, Cross-Modality Decorrelation GitHub",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official repository of \"Preserving Knowledge across Space and Time for Continual Video Deepfake Detection\", ECCV 2026",
+                    "homepage": null,
+                    "id": 1287870596,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-06T13:41:43Z",
+                    "open_issues": 0,
+                    "owner": "rama0126",
+                    "repo": "MSFD",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-08T22:29:59.475Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "IncreFA: Breaking the Static Wall of Generative Model Attribution",
                   "description": "Arxiv 2026  Incremental Learning, Generative Model Attribution GitHub",
                   "children": [],
@@ -1412,7 +1475,7 @@
                     "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "Veritas",
-                    "stars": 124,
+                    "stars": 125,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1429,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:42:06.594Z",
+    "last_updated": "2026-09-08T22:29:59.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1437,11 +1500,11 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-01T13:29:12Z",
+      "last_commit": "2026-09-08T08:15:55Z",
       "open_issues": 0,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 446,
+      "stars": 447,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
@@ -1450,7 +1513,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "5f24bf9f8f0e851abaae82cd85051a2a641962ca",
+    "original_repository_sha": "8f58585e6a0f60d5b8334be86a7f303cbc08344f",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
