@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -216,7 +216,7 @@
             "open_issues": 17,
             "owner": "scu-zjz",
             "repo": "ForensicHub",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -324,12 +324,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "HIT_VIRLAB submission package for Track 3 of the IJCAI 2026 Challenge, based on DINOv3.",
+                "description": "“Perception as Tool”感知即工具框架——PATE-Forensics",
                 "homepage": null,
                 "id": 1272091225,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-07-01T08:37:04Z",
+                "last_commit": "2026-09-09T14:42:23Z",
                 "open_issues": 1,
                 "owner": "yqli00000",
                 "repo": "PATE-Forensics",
@@ -417,7 +417,7 @@
                 "open_issues": 5,
                 "owner": "zhipeixu",
                 "repo": "GenShield",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -627,7 +627,7 @@
                 "open_issues": 11,
                 "owner": "wyczzy",
                 "repo": "AIGI-Holmes",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -744,7 +744,7 @@
                     "open_issues": 0,
                     "owner": "AntonNuzhdin",
                     "repo": "FUSED",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-09-01T22:30:29.905Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:29:59.475Z",
+    "last_updated": "2026-09-09T22:24:17.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1504,7 +1504,7 @@
       "open_issues": 0,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 447,
+      "stars": 448,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
