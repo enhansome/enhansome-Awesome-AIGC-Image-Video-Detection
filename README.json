@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 111,
+            "stars": 113,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -216,7 +216,7 @@
             "open_issues": 17,
             "owner": "scu-zjz",
             "repo": "ForensicHub",
-            "stars": 226,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -690,7 +690,7 @@
                 "open_issues": 36,
                 "owner": "zhipeixu",
                 "repo": "FakeShield",
-                "stars": 623,
+                "stars": 624,
                 "topics": [
                   "ifdl",
                   "mllm"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:24:17.592Z",
+    "last_updated": "2026-09-10T22:23:42.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
