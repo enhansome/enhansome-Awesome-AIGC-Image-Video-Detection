@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "sxfly99",
             "repo": "AGIDefect-4K",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 113,
+            "stars": 115,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -237,7 +237,7 @@
             "open_issues": 15,
             "owner": "YZY-stack",
             "repo": "DF40",
-            "stars": 347,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -287,7 +287,7 @@
                 "open_issues": 1,
                 "owner": "sxfly99",
                 "repo": "AGIDefect-4K",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -308,7 +308,7 @@
                 "open_issues": 1,
                 "owner": "oceanflowlab",
                 "repo": "EDD",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "deepfake-detection",
                   "explainable-ai",
@@ -438,7 +438,7 @@
                 "open_issues": 2,
                 "owner": "Zhangyr2022",
                 "repo": "UniGenDet",
-                "stars": 68,
+                "stars": 67,
                 "topics": [
                   "ai-generated-image-detection",
                   "generation"
@@ -1294,7 +1294,7 @@
                     "id": 1287870596,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-06T13:41:43Z",
+                    "last_commit": "2026-09-11T20:26:28Z",
                     "open_issues": 0,
                     "owner": "rama0126",
                     "repo": "MSFD",
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:23:42.074Z",
+    "last_updated": "2026-09-11T22:23:31.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1504,7 +1504,7 @@
       "open_issues": 0,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 448,
+      "stars": 449,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
