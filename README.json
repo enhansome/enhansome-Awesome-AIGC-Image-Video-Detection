@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -744,7 +744,7 @@
                     "open_issues": 0,
                     "owner": "AntonNuzhdin",
                     "repo": "FUSED",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-09-01T22:30:29.905Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:23:31.833Z",
+    "last_updated": "2026-09-12T22:06:28.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1501,7 +1501,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-09-08T08:15:55Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
       "stars": 449,
