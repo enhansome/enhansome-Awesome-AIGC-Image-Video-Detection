@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "sxfly99",
             "repo": "AGIDefect-4K",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -65,8 +65,8 @@
             "id": 1248439447,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-11T13:59:51Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-14T11:25:20Z",
+            "open_issues": 0,
             "owner": "ICTMCG",
             "repo": "Fleet",
             "stars": 10,
@@ -287,7 +287,7 @@
                 "open_issues": 1,
                 "owner": "sxfly99",
                 "repo": "AGIDefect-4K",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -308,7 +308,7 @@
                 "open_issues": 1,
                 "owner": "oceanflowlab",
                 "repo": "EDD",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "deepfake-detection",
                   "explainable-ai",
@@ -354,7 +354,7 @@
                 "open_issues": 1,
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -396,7 +396,7 @@
                 "open_issues": 1,
                 "owner": "venus-guangjian",
                 "repo": "Venus-DeFakerOne",
-                "stars": 32,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -438,7 +438,7 @@
                 "open_issues": 2,
                 "owner": "Zhangyr2022",
                 "repo": "UniGenDet",
-                "stars": 67,
+                "stars": 69,
                 "topics": [
                   "ai-generated-image-detection",
                   "generation"
@@ -761,8 +761,8 @@
                     "id": 1248439447,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-11T13:59:51Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-09-14T11:25:20Z",
+                    "open_issues": 0,
                     "owner": "ICTMCG",
                     "repo": "Fleet",
                     "stars": 10,
@@ -912,7 +912,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-01-14T17:57:24Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "grip-unina",
                     "repo": "B-Free",
                     "stars": 67,
@@ -1391,7 +1391,7 @@
                     "open_issues": 1,
                     "owner": "EricTan7",
                     "repo": "VeritasPP",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:16:35.368Z",
+    "last_updated": "2026-09-14T23:02:04.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1504,7 +1504,7 @@
       "open_issues": 1,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 450,
+      "stars": 452,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
