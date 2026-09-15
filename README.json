@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 119,
+            "stars": 121,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -69,7 +69,7 @@
             "open_issues": 0,
             "owner": "ICTMCG",
             "repo": "Fleet",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -266,7 +266,7 @@
                 "open_issues": 0,
                 "owner": "peifengLiu42",
                 "repo": "ACMMM26-evidence-guided-detector-localizer-reasoner-system",
-                "stars": 2,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-09-08T22:29:59.475Z"
@@ -438,7 +438,7 @@
                 "open_issues": 2,
                 "owner": "Zhangyr2022",
                 "repo": "UniGenDet",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "ai-generated-image-detection",
                   "generation"
@@ -525,7 +525,7 @@
                 "open_issues": 1,
                 "owner": "suncore946",
                 "repo": "AgentFoX",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -669,7 +669,7 @@
                 "open_issues": 4,
                 "owner": "hzlsaber",
                 "repo": "SIDA",
-                "stars": 163,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -765,7 +765,7 @@
                     "open_issues": 0,
                     "owner": "ICTMCG",
                     "repo": "Fleet",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:02:04.198Z",
+    "last_updated": "2026-09-15T22:48:12.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
