@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -332,7 +332,7 @@
                 "last_commit": "2026-09-09T14:42:23Z",
                 "open_issues": 1,
                 "owner": "yqli00000",
-                "repo": "PATE-Forensics",
+                "repo": "CLASP",
                 "stars": 2,
                 "topics": []
               },
@@ -351,7 +351,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:02:21Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
                 "stars": 9,
@@ -438,7 +438,7 @@
                 "open_issues": 2,
                 "owner": "Zhangyr2022",
                 "repo": "UniGenDet",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "ai-generated-image-detection",
                   "generation"
@@ -669,7 +669,7 @@
                 "open_issues": 4,
                 "owner": "hzlsaber",
                 "repo": "SIDA",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1388,7 +1388,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-25T11:02:21Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "VeritasPP",
                     "stars": 9,
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:48:12.585Z",
+    "last_updated": "2026-09-16T22:48:38.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1504,7 +1504,7 @@
       "open_issues": 1,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 452,
+      "stars": 454,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
