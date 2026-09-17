@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 122,
+            "stars": 124,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -237,7 +237,7 @@
             "open_issues": 15,
             "owner": "YZY-stack",
             "repo": "DF40",
-            "stars": 348,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -438,7 +438,7 @@
                 "open_issues": 2,
                 "owner": "Zhangyr2022",
                 "repo": "UniGenDet",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "ai-generated-image-detection",
                   "generation"
@@ -627,7 +627,7 @@
                 "open_issues": 11,
                 "owner": "wyczzy",
                 "repo": "AIGI-Holmes",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -690,7 +690,7 @@
                 "open_issues": 36,
                 "owner": "zhipeixu",
                 "repo": "FakeShield",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "ifdl",
                   "mllm"
@@ -894,7 +894,7 @@
                     "open_issues": 1,
                     "owner": "JiaLiangShen",
                     "repo": "Dino-Detect-for-blur-robust-AIGC-Detection",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1130,7 +1130,7 @@
                     "id": 1274082252,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-07-07T01:18:49Z",
+                    "last_commit": "2026-09-17T12:01:59Z",
                     "open_issues": 1,
                     "owner": "mldljyh",
                     "repo": "SPLIT",
@@ -1249,7 +1249,7 @@
                     "open_issues": 4,
                     "owner": "chuangchuangtan",
                     "repo": "FreqNet-DeepfakeDetection",
-                    "stars": 157,
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1270,7 +1270,7 @@
                     "open_issues": 26,
                     "owner": "chuangchuangtan",
                     "repo": "NPR-DeepfakeDetection",
-                    "stars": 311,
+                    "stars": 312,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:48:38.983Z",
+    "last_updated": "2026-09-17T22:46:03.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
