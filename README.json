@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -324,12 +324,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "“Perception as Tool”感知即工具框架——PATE-Forensics",
+                "description": "大模型与感知工具协同的可解释图像伪造检测——CLASP",
                 "homepage": null,
                 "id": 1272091225,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-09T14:42:23Z",
+                "last_commit": "2026-09-18T02:11:30Z",
                 "open_issues": 1,
                 "owner": "yqli00000",
                 "repo": "CLASP",
@@ -354,7 +354,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -483,7 +483,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "Veritas",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -730,6 +730,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
+                  "description": "Arxiv 2026  UCF-Net, CLIP Semantic + DINO Structural Priors, Layer-wise Expert Aggregation, Entropy-based Uncertainty Fusion, 4M-image Unified Benchmark, Cross-generator Evaluation GitHub",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
+                    "homepage": "https://xavierjiezou.github.io/UCF-Net/",
+                    "id": 1300137971,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-13T15:58:18Z",
+                    "open_issues": 1,
+                    "owner": "XavierJiezou",
+                    "repo": "UCF-Net",
+                    "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-18T22:26:09.803Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "FUSED: Forensic-Semantic Mixture-of-Experts for AI Inpainting Detection and Localization",
                   "description": "Arxiv 2026  Forensic-Semantic MoE, Joint Detection & Localization, Cross-generator Generalization (OpenSDID) GitHub",
                   "children": [],
@@ -744,7 +765,7 @@
                     "open_issues": 0,
                     "owner": "AntonNuzhdin",
                     "repo": "FUSED",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-09-01T22:30:29.905Z"
@@ -936,7 +957,7 @@
                     "open_issues": 8,
                     "owner": "OUC-VAS",
                     "repo": "ForensicsAdapter",
-                    "stars": 114,
+                    "stars": 115,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1107,7 +1128,7 @@
                     "open_issues": 0,
                     "owner": "VishalJ99",
                     "repo": "trail-image-edit-localization",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": [
                       "computer-vision",
                       "dinov3",
@@ -1180,10 +1201,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-24T09:12:36Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "roy-ch",
                     "repo": "Dual-Data-Alignment",
-                    "stars": 132,
+                    "stars": 133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1249,7 +1270,7 @@
                     "open_issues": 4,
                     "owner": "chuangchuangtan",
                     "repo": "FreqNet-DeepfakeDetection",
-                    "stars": 158,
+                    "stars": 159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1391,7 +1412,7 @@
                     "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "VeritasPP",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1475,7 +1496,7 @@
                     "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "Veritas",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1492,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:46:03.176Z",
+    "last_updated": "2026-09-18T22:26:09.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1500,11 +1521,11 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-08T08:15:55Z",
+      "last_commit": "2026-09-18T01:53:49Z",
       "open_issues": 1,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 454,
+      "stars": 455,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
@@ -1513,7 +1534,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "8f58585e6a0f60d5b8334be86a7f303cbc08344f",
+    "original_repository_sha": "f2eaf5c57f2c8ca129faf5138754ff0d18240ef6",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
