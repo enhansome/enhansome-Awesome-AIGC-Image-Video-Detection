@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 126,
+            "stars": 128,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -262,7 +262,7 @@
                 "id": 1336874553,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-08T12:34:19Z",
+                "last_commit": "2026-09-20T08:57:10Z",
                 "open_issues": 0,
                 "owner": "peifengLiu42",
                 "repo": "ACMMM26-evidence-guided-detector-localizer-reasoner-system",
@@ -744,7 +744,7 @@
                     "open_issues": 1,
                     "owner": "XavierJiezou",
                     "repo": "UCF-Net",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-09-18T22:26:09.803Z"
@@ -891,7 +891,7 @@
                     "open_issues": 1,
                     "owner": "yunncheng",
                     "repo": "OmniAID",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "ai-generated-image-detection",
                       "ai-generated-images"
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:16:20.298Z",
+    "last_updated": "2026-09-20T22:19:21.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1525,7 +1525,7 @@
       "open_issues": 1,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 455,
+      "stars": 456,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
