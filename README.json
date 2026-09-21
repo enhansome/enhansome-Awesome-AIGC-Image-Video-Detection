@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -266,7 +266,7 @@
                 "open_issues": 0,
                 "owner": "peifengLiu42",
                 "repo": "ACMMM26-evidence-guided-detector-localizer-reasoner-system",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-09-08T22:29:59.475Z"
@@ -730,6 +730,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Learning Continuous Source Responses For Generalizable AI-Generated Image Detection",
+                  "description": "Arxiv 2026  CuRe, Continuous Source-Response Regression (Real-Generated Mixing Ratio), Shortcut-Cue Suppression, Source-Response Subspace, 10-Benchmark Evaluation GitHub",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CuRe image authenticity inference",
+                    "homepage": null,
+                    "id": 1366963228,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-13T03:02:45Z",
+                    "open_issues": 0,
+                    "owner": "manic-cui",
+                    "repo": "CuRe",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-21T23:06:47.857Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
                   "description": "Arxiv 2026  UCF-Net, CLIP Semantic + DINO Structural Priors, Layer-wise Expert Aggregation, Entropy-based Uncertainty Fusion, 4M-image Unified Benchmark, Cross-generator Evaluation GitHub",
                   "children": [],
@@ -765,7 +786,7 @@
                     "open_issues": 0,
                     "owner": "AntonNuzhdin",
                     "repo": "FUSED",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-09-01T22:30:29.905Z"
@@ -1513,7 +1534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:19:21.706Z",
+    "last_updated": "2026-09-21T23:06:47.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1521,7 +1542,7 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-18T01:53:49Z",
+      "last_commit": "2026-09-21T12:21:39Z",
       "open_issues": 1,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
@@ -1534,7 +1555,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "f2eaf5c57f2c8ca129faf5138754ff0d18240ef6",
+    "original_repository_sha": "4230f8fbc7d6682f0f0c20970e08b391a1c6af57",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
