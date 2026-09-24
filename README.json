@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 132,
+            "stars": 134,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -396,7 +396,7 @@
                 "open_issues": 1,
                 "owner": "venus-guangjian",
                 "repo": "Venus-DeFakerOne",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -744,7 +744,7 @@
                     "open_issues": 0,
                     "owner": "manic-cui",
                     "repo": "CuRe",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-09-21T23:06:47.857Z"
@@ -957,7 +957,7 @@
                     "open_issues": 5,
                     "owner": "grip-unina",
                     "repo": "B-Free",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1389,7 +1389,7 @@
                     "open_issues": 0,
                     "owner": "Agnuxo1",
                     "repo": "Secure_image_generation_with_ASIC_signature",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1534,7 +1534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:51:30.099Z",
+    "last_updated": "2026-09-24T23:07:42.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1543,10 +1543,10 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-09-22T06:33:07Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 457,
+      "stars": 459,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
