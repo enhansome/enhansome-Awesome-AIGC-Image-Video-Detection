@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 136,
+            "stars": 138,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -690,7 +690,7 @@
                 "open_issues": 36,
                 "owner": "zhipeixu",
                 "repo": "FakeShield",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "ifdl",
                   "mllm"
@@ -1534,7 +1534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:36:01.265Z",
+    "last_updated": "2026-09-27T22:55:00.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
