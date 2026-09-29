@@ -5,27 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "AGIDefect-4K",
-          "description": "AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation ACM MM 2026  Defect Detection, Localization & Explanation, 15 SOTA Generators, Quality Scoring  DALL-E 3, Midjourney, FLUX, Gemini, GPT-Image, Ideogram, Kling, Grok, etc. , , 4K AGIDefect-4K",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🔥🔥🔥 [ACM MM 2026] Official code release of our paper \"AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation\" AI生成图像缺陷检测、定位和解释一体化",
-            "homepage": null,
-            "id": 1297057472,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-07-11T02:56:01Z",
-            "open_issues": 1,
-            "owner": "sxfly99",
-            "repo": "AGIDefect-4K",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:08:33.742Z"
-        },
-        {
-          "node_type": "item",
           "title": "RA-Bench",
           "description": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination Arxiv 2026  Real-Crisis-Anchored, Source-Matched Evaluation, Human-Proof Subset, Propagation Robustness Real crisis event footage (public media & source URLs) 4 open-source + 5 closed-source generators (incl. Wan2.2)  17.9K RA-Bench",
           "children": [],
@@ -40,7 +19,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -119,7 +98,7 @@
         {
           "node_type": "item",
           "title": "RealChain",
-          "description": "Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection Arxiv 2026      14K RealChain",
+          "description": "Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection Arxiv 2026      14K RealChain Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,7 +119,7 @@
         {
           "node_type": "item",
           "title": "NeXT-IMDL",
-          "description": "NeXT-IMDL: Build Benchmark for Next-Generation Image Manipulation Detection & Localization Arxiv 2025   Flickr30k, COCO, OpenImages V7 SD2-Inpainting, SDXL-Inpainting, FLUX-Inpainting, etc. , 558K NeXT-IMDL",
+          "description": "NeXT-IMDL: Build Benchmark for NeXT-Generation Image Manipulation Detection & Localization Arxiv 2025   Flickr30k, COCO, OpenImages V7 SD2-Inpainting, SDXL-Inpainting, FLUX-Inpainting, etc. , 558K NeXT-IMDL Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -262,11 +241,11 @@
                 "id": 1336874553,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-20T08:57:10Z",
+                "last_commit": "2026-09-28T15:00:04Z",
                 "open_issues": 0,
                 "owner": "peifengLiu42",
                 "repo": "ACMMM26-evidence-guided-detector-localizer-reasoner-system",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-09-08T22:29:59.475Z"
@@ -396,7 +375,7 @@
                 "open_issues": 1,
                 "owner": "venus-guangjian",
                 "repo": "Venus-DeFakerOne",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -483,7 +462,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "Veritas",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -546,7 +525,7 @@
                 "open_issues": 0,
                 "owner": "l8cv",
                 "repo": "BusterX",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "aigc",
                   "aigc-detection",
@@ -576,7 +555,7 @@
                 "open_issues": 0,
                 "owner": "l8cv",
                 "repo": "BusterX",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "aigc",
                   "aigc-detection",
@@ -606,7 +585,7 @@
                 "open_issues": 7,
                 "owner": "opendatalab",
                 "repo": "FakeVLM",
-                "stars": 161,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1173,7 +1152,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-09-17T12:01:59Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "mldljyh",
                     "repo": "SPLIT",
                     "stars": 5,
@@ -1517,7 +1496,7 @@
                     "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "Veritas",
-                    "stars": 126,
+                    "stars": 127,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1534,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:55:00.419Z",
+    "last_updated": "2026-09-29T00:17:39.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1542,7 +1521,7 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-22T06:33:07Z",
+      "last_commit": "2026-09-28T01:42:29Z",
       "open_issues": 4,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
@@ -1555,7 +1534,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "ad26adc932488c5bf217655bf7012c6419e59612",
+    "original_repository_sha": "5ffc0509dc350d180d43a17fef6895f4cfd53449",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
