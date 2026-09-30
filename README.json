@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -438,7 +438,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-30T14:16:05Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "EricTan7",
                 "repo": "VideoVeritas",
                 "stars": 36,
@@ -1437,7 +1437,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-30T14:16:05Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "EricTan7",
                     "repo": "VideoVeritas",
                     "stars": 36,
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:34:44.149Z",
+    "last_updated": "2026-09-30T23:36:55.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1525,7 +1525,7 @@
       "open_issues": 4,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 459,
+      "stars": 461,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
