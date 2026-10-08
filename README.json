@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -669,7 +669,7 @@
                 "open_issues": 37,
                 "owner": "zhipeixu",
                 "repo": "FakeShield",
-                "stars": 627,
+                "stars": 626,
                 "topics": [
                   "ifdl",
                   "mllm"
@@ -861,13 +861,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": null,
+                    "description": "MIRROR: A reference-comparison framework for generalizable AI-generated image detection, with a reality memory bank and two-phase training.",
                     "homepage": null,
                     "id": 1147740604,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-04-22T09:32:01Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-07T08:51:31Z",
+                    "open_issues": 4,
                     "owner": "handsome-rich",
                     "repo": "MIRROR",
                     "stars": 60,
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:41:55.557Z",
+    "last_updated": "2026-10-08T00:06:08.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
