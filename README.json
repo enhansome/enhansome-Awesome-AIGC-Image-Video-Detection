@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "CIFAR Synthetic Evidence Corpus",
+          "description": "A Benchmark & Dataset for Detecting AI-Manipulated Visual Evidence in the Court System Arxiv 2026  Evidentiary-Image Authentication, 3 Evidence Families × 3 Manipulation Tiers, Metadata-Rich VIRAT, UCF-Crime (normal subset), BDD100K, CASIA v2.0 (720 authentic controls) 3 consumer-accessible generative systems (anonymized as variants //) + human-in-the-loop Hero set ( / )  1,505 (720 real + 785 manipulated/fabricated) CIFAR Synthetic Evidence Corpus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1246996398,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2026-08-19T15:33:18Z",
+            "open_issues": 1,
+            "owner": "UofT-CIFAR",
+            "repo": "Synthetic-Evidence-Image-Corpus",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T00:13:29.194Z"
+        },
+        {
+          "node_type": "item",
           "title": "RA-Bench",
           "description": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination Arxiv 2026  Real-Crisis-Anchored, Source-Matched Evaluation, Human-Proof Subset, Propagation Robustness Real crisis event footage (public media & source URLs) 4 open-source + 5 closed-source generators (incl. Wan2.2)  17.9K RA-Bench",
           "children": [],
@@ -19,7 +40,7 @@
             "open_issues": 0,
             "owner": "Shuo-Liang-0111",
             "repo": "RA-Bench",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "ai-generated-video",
               "benchmark",
@@ -150,10 +171,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-06-18T11:36:51Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "iamwangyabin",
             "repo": "OpenSDI",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -355,27 +376,6 @@
                 "owner": "DreamMr",
                 "repo": "TranX-Adapter",
                 "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:08:33.742Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Venus-DeFakerOne: Unified Fake Image Detection & Localization",
-              "description": "Arxiv 2026  Unified Detection & Localization, Large-Scale Training GitHub",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A unified foundation model for FIDL.",
-                "homepage": null,
-                "id": 1237761311,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-05-15T03:38:35Z",
-                "open_issues": 1,
-                "owner": "venus-guangjian",
-                "repo": "Venus-DeFakerOne",
-                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -676,27 +676,6 @@
                 ]
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors",
-              "description": "Arxiv 2024  VQA, InstructBLIP, Soft Prompt-tuning, Zero-shot GitHub",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the official implementation of AntifakePrompt.",
-                "homepage": null,
-                "id": 710304824,
-                "language": "Jupyter Notebook",
-                "license": "BSD-3-Clause",
-                "last_commit": "2024-08-15T17:17:45Z",
-                "open_issues": 6,
-                "owner": "nctu-eva-lab",
-                "repo": "AntifakePrompt",
-                "stars": 46,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:08:33.742Z"
             }
           ],
           "description": "This category focuses on utilizing Multimodal Large Language Models (MLLMs) like GPT-4V, LLaVA, or Qwen-VL to detect AI-generated content. These methods often provide natural language explanations (explainability) alongside binary detection.",
@@ -709,24 +688,45 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Learning Continuous Source Responses For Generalizable AI-Generated Image Detection",
-                  "description": "Arxiv 2026  CuRe, Continuous Source-Response Regression (Real-Generated Mixing Ratio), Shortcut-Cue Suppression, Source-Response Subspace, 10-Benchmark Evaluation GitHub",
+                  "title": "Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics",
+                  "description": "ECCV 2026 Workshop  MoE-JEPA, V-JEPA 2 World-Model Prior, Residual Mixture-of-Experts, Noise-Stream High-Frequency Branch, Gated Attention MIL, SID-Set SOTA GitHub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "CuRe image authenticity inference",
+                    "description": null,
                     "homepage": null,
-                    "id": 1366963228,
+                    "id": 1364219314,
                     "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-23T02:51:01Z",
+                    "license": "MIT",
+                    "last_commit": "2026-09-11T08:36:41Z",
                     "open_issues": 0,
-                    "owner": "manic-cui",
-                    "repo": "CuRe",
-                    "stars": 4,
+                    "owner": "ALCOR-Lab-DIAG",
+                    "repo": "MoE-JEPA",
+                    "stars": 0,
                     "topics": []
                   },
-                  "first_seen": "2026-09-21T23:06:47.857Z"
+                  "first_seen": "2026-10-09T00:13:29.194Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "From Detection to Localization: A Unified Forensics Framework for Fully Synthetic and Tampered Images",
+                  "description": "ACM MM 2026 Workshop  Unified Three-Class Framework (Real / Fully Generated / Tampered), Segmentation Branch for Pixel-Level Localization GitHub",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This repository contains the implementation associated with our paper, From Detection to Localization: A Unified Forensics Framework for Fully Synthetic and Tampered Images.",
+                    "homepage": null,
+                    "id": 1338274997,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2026-09-14T13:16:27Z",
+                    "open_issues": 1,
+                    "owner": "anngal01",
+                    "repo": "From-Detection-to-Localization-A-Unified-Forensics-Framework-for-Fully-Synthetic-and-Tampered-Images",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-09T00:13:29.194Z"
                 },
                 {
                   "node_type": "item",
@@ -748,27 +748,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-09-18T22:26:09.803Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "FUSED: Forensic-Semantic Mixture-of-Experts for AI Inpainting Detection and Localization",
-                  "description": "Arxiv 2026  Forensic-Semantic MoE, Joint Detection & Localization, Cross-generator Generalization (OpenSDID) GitHub",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official code for \"FUSED: Forensic–Semantic Mixture-of-Experts for AI Inpainting Detection and Localization\"",
-                    "homepage": "https://arxiv.org/abs/2608.28302",
-                    "id": 1350930497,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-08-31T16:10:12Z",
-                    "open_issues": 0,
-                    "owner": "AntonNuzhdin",
-                    "repo": "FUSED",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-09-01T22:30:29.905Z"
                 },
                 {
                   "node_type": "item",
@@ -1513,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:06:08.562Z",
+    "last_updated": "2026-10-09T00:13:29.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1521,11 +1500,11 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-28T01:42:29Z",
+      "last_commit": "2026-10-08T02:47:33Z",
       "open_issues": 4,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 463,
+      "stars": 464,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
@@ -1534,7 +1513,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "5ffc0509dc350d180d43a17fef6895f4cfd53449",
+    "original_repository_sha": "b595bafac293c0f5f3471ea92c6254d28d7927b0",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
