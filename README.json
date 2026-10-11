@@ -237,7 +237,7 @@
             "open_issues": 15,
             "owner": "YZY-stack",
             "repo": "DF40",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -585,7 +585,7 @@
                 "open_issues": 7,
                 "owner": "opendatalab",
                 "repo": "FakeVLM",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -606,7 +606,7 @@
                 "open_issues": 11,
                 "owner": "wyczzy",
                 "repo": "AIGI-Holmes",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1058,7 +1058,7 @@
                     "open_issues": 5,
                     "owner": "ZSHsh98",
                     "repo": "NSG-VD",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1347,7 +1347,7 @@
                     "open_issues": 0,
                     "owner": "Agnuxo1",
                     "repo": "Secure_image_generation_with_ASIC_signature",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:22:42.967Z",
+    "last_updated": "2026-10-11T23:32:27.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
