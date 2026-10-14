@@ -216,7 +216,7 @@
             "open_issues": 19,
             "owner": "scu-zjz",
             "repo": "ForensicHub",
-            "stars": 230,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1006,7 +1006,7 @@
                     "open_issues": 3,
                     "owner": "grip-unina",
                     "repo": "WaveRep-SyntheticVideoDetection",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:40:48.421Z",
+    "last_updated": "2026-10-14T23:05:33.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1504,7 +1504,7 @@
       "open_issues": 4,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 465,
+      "stars": 467,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
