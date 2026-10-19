@@ -132,7 +132,7 @@
             "open_issues": 3,
             "owner": "handsome-rich",
             "repo": "REM",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -354,7 +354,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -441,7 +441,7 @@
                 "open_issues": 3,
                 "owner": "EricTan7",
                 "repo": "VideoVeritas",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -585,7 +585,7 @@
                 "open_issues": 7,
                 "owner": "opendatalab",
                 "repo": "FakeVLM",
-                "stars": 163,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -744,7 +744,7 @@
                     "open_issues": 1,
                     "owner": "XavierJiezou",
                     "repo": "UCF-Net",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-09-18T22:26:09.803Z"
@@ -1179,7 +1179,7 @@
                     "id": 1062270539,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T09:31:48Z",
+                    "last_commit": "2026-10-19T02:24:47Z",
                     "open_issues": 2,
                     "owner": "roy-ch",
                     "repo": "Dual-Data-Alignment",
@@ -1391,7 +1391,7 @@
                     "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "VeritasPP",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1419,7 +1419,7 @@
                     "open_issues": 3,
                     "owner": "EricTan7",
                     "repo": "VideoVeritas",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:20:06.948Z",
+    "last_updated": "2026-10-19T23:29:46.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1500,7 +1500,7 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-12T05:50:35Z",
+      "last_commit": "2026-10-19T01:50:41Z",
       "open_issues": 6,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
@@ -1513,7 +1513,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "d420ec59cb8e9db448c69b7109789151db19792c",
+    "original_repository_sha": "2549bcf56e38c20b85f83ad7120d7e5e2992466b",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
