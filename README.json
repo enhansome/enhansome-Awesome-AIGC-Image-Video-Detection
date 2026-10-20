@@ -111,7 +111,7 @@
             "open_issues": 7,
             "owner": "clpbc",
             "repo": "BR-Gen",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -333,7 +333,7 @@
                 "open_issues": 1,
                 "owner": "yqli00000",
                 "repo": "CLASP",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -354,7 +354,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -585,7 +585,7 @@
                 "open_issues": 7,
                 "owner": "opendatalab",
                 "repo": "FakeVLM",
-                "stars": 162,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -648,7 +648,7 @@
                 "open_issues": 4,
                 "owner": "hzlsaber",
                 "repo": "SIDA",
-                "stars": 163,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -744,7 +744,7 @@
                     "open_issues": 1,
                     "owner": "XavierJiezou",
                     "repo": "UCF-Net",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-09-18T22:26:09.803Z"
@@ -828,7 +828,7 @@
                     "open_issues": 7,
                     "owner": "clpbc",
                     "repo": "BR-Gen",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1270,7 +1270,7 @@
                     "open_issues": 26,
                     "owner": "chuangchuangtan",
                     "repo": "NPR-DeepfakeDetection",
-                    "stars": 315,
+                    "stars": 316,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1391,7 +1391,7 @@
                     "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "VeritasPP",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:29:46.252Z",
+    "last_updated": "2026-10-20T23:04:24.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1504,7 +1504,7 @@
       "open_issues": 6,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 471,
+      "stars": 472,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
