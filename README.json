@@ -15,11 +15,11 @@
             "id": 1411374190,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-28T11:38:22Z",
+            "last_commit": "2026-10-30T07:37:19Z",
             "open_issues": 0,
             "owner": "YuZijian",
             "repo": "WildAIGC-Bench",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-10-21T23:08:25.138Z"
@@ -237,7 +237,7 @@
             "open_issues": 19,
             "owner": "scu-zjz",
             "repo": "ForensicHub",
-            "stars": 232,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-28T04:08:33.742Z"
@@ -483,7 +483,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "Veritas",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -606,7 +606,7 @@
                 "open_issues": 7,
                 "owner": "opendatalab",
                 "repo": "FakeVLM",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -719,7 +719,7 @@
                     "id": 1364219314,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T08:36:41Z",
+                    "last_commit": "2026-10-30T12:09:00Z",
                     "open_issues": 0,
                     "owner": "ALCOR-Lab-DIAG",
                     "repo": "MoE-JEPA",
@@ -762,7 +762,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-13T15:58:18Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "XavierJiezou",
                     "repo": "UCF-Net",
                     "stars": 17,
@@ -936,7 +936,7 @@
                     "open_issues": 5,
                     "owner": "grip-unina",
                     "repo": "B-Free",
-                    "stars": 70,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -957,7 +957,7 @@
                     "open_issues": 8,
                     "owner": "OUC-VAS",
                     "repo": "ForensicsAdapter",
-                    "stars": 115,
+                    "stars": 114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1100,7 +1100,7 @@
                     "open_issues": 15,
                     "owner": "chenhaoxing",
                     "repo": "DeMamba",
-                    "stars": 196,
+                    "stars": 197,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1176,7 +1176,7 @@
                     "open_issues": 0,
                     "owner": "OmerBenHayun",
                     "repo": "STALL",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1270,7 +1270,7 @@
                     "open_issues": 4,
                     "owner": "chuangchuangtan",
                     "repo": "FreqNet-DeepfakeDetection",
-                    "stars": 159,
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1496,7 +1496,7 @@
                     "open_issues": 2,
                     "owner": "EricTan7",
                     "repo": "Veritas",
-                    "stars": 132,
+                    "stars": 133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:52:09.511Z",
+    "last_updated": "2026-10-30T23:33:10.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1525,7 +1525,7 @@
       "open_issues": 8,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 484,
+      "stars": 485,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
