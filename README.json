@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "YuZijian",
             "repo": "WildAIGC-Bench",
-            "stars": 17,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-10-21T23:08:25.138Z"
@@ -192,7 +192,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-06-18T11:36:51Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "iamwangyabin",
             "repo": "OpenSDI",
             "stars": 49,
@@ -870,7 +870,7 @@
                     "open_issues": 5,
                     "owner": "handsome-rich",
                     "repo": "MIRROR",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1150,12 +1150,12 @@
                     "homepage": null,
                     "id": 1274082252,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-09-17T12:01:59Z",
+                    "license": "MIT",
+                    "last_commit": "2026-11-02T14:50:58Z",
                     "open_issues": 0,
                     "owner": "mldljyh",
                     "repo": "SPLIT",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1513,7 +1513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:26:54.907Z",
+    "last_updated": "2026-11-03T02:06:44.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1521,7 +1521,7 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-21T05:57:57Z",
+      "last_commit": "2026-11-02T03:41:34Z",
       "open_issues": 8,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
@@ -1534,7 +1534,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "561f2f3a1a9349e10dc0f1a15a4d567c4e94e871",
+    "original_repository_sha": "52d7d12efee814ca8b2fe2de65349609925efe1d",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
