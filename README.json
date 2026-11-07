@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "YuZijian",
             "repo": "WildAIGC-Bench",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-10-21T23:08:25.138Z"
@@ -330,7 +330,7 @@
                 "open_issues": 37,
                 "owner": "zhipeixu",
                 "repo": "FakeShield",
-                "stars": 629,
+                "stars": 630,
                 "topics": [
                   "ifdl",
                   "mllm"
@@ -851,7 +851,7 @@
                     "open_issues": 0,
                     "owner": "mever-team",
                     "repo": "WildFC",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-11-06T00:55:25.718Z"
@@ -1087,7 +1087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:55:25.718Z",
+    "last_updated": "2026-11-07T00:01:38.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1099,7 +1099,7 @@
       "open_issues": 8,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 485,
+      "stars": 487,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
