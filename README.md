@@ -31,7 +31,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 > Last updated: 2026-11-16
 
-* 2026-11-10 · [Adobe brings its Creative Agent to Firefly image and video workflows](https://news.adobe.com/news/2026/11/adobe-firefly-expands)
+* 2026-11-11 · [MiniMax releases H3-Image weights for 4K image generation and editing](https://www.minimax.io/blog/minimax-h3-image)
 * 2026-11-04 · [OpenAI releases Images 2.6 with animated GIF generation and finer editing controls](https://openai.com/index/introducing-images-2-6/)
 * 2026-10-28 · [抖音公布治理滥用 AI 的恶意营销账号案例](https://news.fznews.com.cn/gngj/20261029/41ilx2u53c.shtml)
 * 2026-10-28 · [AP investigates manipulated videos impersonating real people in Senate races](https://apnews.com/article/c52f2c1720a0bb1ea86545d260aaf969)
@@ -98,14 +98,14 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | [VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics](https://arxiv.org/abs/2608.11201) | Arxiv 2026            | `[V]`    | Meta-Detection RL, Verifiable Temporal Grounding, Evidence-Guided Reward Redistribution                 | N/A                                                                                                                                            |
 | [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](https://arxiv.org/abs/2602.21716)                       | ICML 2026             | `[I]`    | Artifact feature and Semantic feature fusion                                                            | [GitHub](https://github.com/DreamMr/TranX-Adapter) ⭐ 19 \| 🐛 0 \| 🌐 Python \| 📅 2026-06-03                                                  |
 | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://proceedings.mlr.press/v306/tan26b.html)                     | ICML 2026             | `[V]`    | Perception Pretext RL, Fact-based Reasoning, MintVid Dataset                                            | [GitHub](https://github.com/EricTan7/VideoVeritas) ⭐ 38 \| 🐛 3 \| 🌐 Python \| 📅 2026-07-30                                                  |
-| [Veritas: Generalizable deepfake detection via pattern-aware reasoning](https://arxiv.org/pdf/2508.21048)                                                      | ICLR 2026(Oral)       | `[I]`    | Pattern-aware Reasoning, HydraFake Dataset                                                              | [Github](https://github.com/EricTan7/Veritas) ⭐ 136 \| 🐛 2 \| 🌐 Python \| 📅 2026-07-30                                                      |
+| [Veritas: Generalizable deepfake detection via pattern-aware reasoning](https://arxiv.org/pdf/2508.21048)                                                      | ICLR 2026(Oral)       | `[I]`    | Pattern-aware Reasoning, HydraFake Dataset                                                              | [Github](https://github.com/EricTan7/Veritas) ⭐ 137 \| 🐛 2 \| 🌐 Python \| 📅 2026-07-30                                                      |
 | [VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL](https://arxiv.org/abs/2510.02282)                                       | ICLR 2026             | `[V]`    | Multi-stage RL (GRPO), Time Artifacts, Video Detection Dataset                                          | [GitHub](https://github.com/kyoungjunpark/VidGuard-R1) ⭐ 34 \| 🐛 2 \| 🌐 Python \| 📅 2026-04-02                                              |
 | [GenVideoLens: Where LVLMs Fall Short in AI-Generated Video Detection?](https://arxiv.org/pdf/2603.18625)                                                      | Arxiv 2026            | `[V]`    | GenVideoLens benchmark                                                                                  | N/A                                                                                                                                            |
 | [BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](https://www.alphaxiv.org/pdf/2507.14632)                     | Arxiv 2025            | `[M]`    | RL Post-training, Cross-Modal, Thinking Reward Mechanism                                                | [Github](https://github.com/l8cv/BusterX) ⭐ 53 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-13                                                           |
 | [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/pdf/2503.14905)                            | NeurIPS 2025          | `[I]`    | FakeClue Dataset, Fine-grained Artifact Clues, Artifact Explanation                                     | [GitHub](https://github.com/opendatalab/FakeVLM) ⭐ 166 \| 🐛 7 \| 🌐 Python \| 📅 2025-09-24                                                   |
 | [LEGION: Learning to Ground and Explain for Synthetic Image Detection](https://arxiv.org/pdf/2503.15264)                                                       | ICCV 2025             | `[I]`    | SynthScars Dataset, Defender & Controller, Image Refinement                                             | [GitHub](https://github.com/opendatalab/LEGION) ⭐ 83 \| 🐛 11 \| 🌐 Python \| 📅 2025-10-22                                                    |
 | [SIDA: Social Media Image Deepfake Detection, Localization, and Explanation](https://arxiv.org/pdf/2412.04292)                                                 | CVPR 2025             | `[I]`    | SID-Set, Mask Prediction, Social Media Context                                                          | [Github](https://github.com/hzlsaber/SIDA) ⭐ 168 \| 🐛 4 \| 🌐 Python \| 📅 2025-08-06                                                         |
-| [FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models](https://arxiv.org/pdf/2410.02761)                     | ICLR 2025             | `[I]`    | Explainable IFDL, Domain Tag-guided, Multi-modal Localization                                           | [GitHub](https://github.com/zhipeixu/FakeShield) ⭐ 632 \| 🐛 37 \| 🌐 Python \| 📅 2026-02-21                                                  |
+| [FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models](https://arxiv.org/pdf/2410.02761)                     | ICLR 2025             | `[I]`    | Explainable IFDL, Domain Tag-guided, Multi-modal Localization                                           | [GitHub](https://github.com/zhipeixu/FakeShield) ⭐ 633 \| 🐛 37 \| 🌐 Python \| 📅 2026-02-21                                                  |
 
 ### Classification-Based
 
@@ -258,7 +258,7 @@ We are honored to collaborate with esteemed researchers and scholars in the fiel
 ### 📝 Academic Publications
 
 * **Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection** | *arXiv, 2026*
-  * [\[Paper\]](https://arxiv.org/abs/2607.27113) [\[Code\]](https://github.com/EricTan7/VeritasPP) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-08-25
+  * [\[Paper\]](https://arxiv.org/abs/2607.27113) [\[Code\]](https://github.com/EricTan7/VeritasPP) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2026-08-25
   * *Highlights:* Strengthened fine-grained visual perception for explainable AIGI detection through perception-oriented learning and value-aware on-policy distillation.
 * **VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning** | *ICML'26, 2026*
   * [\[Paper\]](https://arxiv.org/pdf/2602.08828) [\[Code\]](https://github.com/EricTan7/VideoVeritas) ⭐ 38 | 🐛 3 | 🌐 Python | 📅 2026-07-30
@@ -273,7 +273,7 @@ We are honored to collaborate with esteemed researchers and scholars in the fiel
   * [\[Paper\]](https://openreview.net/pdf?id=UcpTOa8OnG) [\[Code\]](https://github.com/Gennadiyev/FakeXplain) ⭐ 2 | 🐛 1 | 📅 2026-02-14
   * *Highlights:* Detected AI-generated images through human-aligned grounded reasoning, providing interpretable visual evidence.
 * **Veritas: Generalizable deepfake detection via pattern-aware reasoning** | *ICLR'26 Oral, 2026*
-  * [\[Paper\]](https://arxiv.org/pdf/2508.21048) [\[Code\]](https://github.com/EricTan7/Veritas) ⭐ 136 | 🐛 2 | 🌐 Python | 📅 2026-07-30
+  * [\[Paper\]](https://arxiv.org/pdf/2508.21048) [\[Code\]](https://github.com/EricTan7/Veritas) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2026-07-30
   * *Highlights:* Achieved generalizable deepfake detection through pattern-aware reasoning, improving robustness across diverse manipulation types.
 * **Generalizable and Adaptive Continual Learning Framework for AI-generated Image Detection** | *IEEE TMM, 2025*
   * *Highlights:* Proposed a continual learning framework that adapts to new generative models while mitigating catastrophic forgetting.
@@ -337,4 +337,4 @@ For questions or collaborations, please contact:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
