@@ -577,7 +577,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-18T11:17:38Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "grip-unina",
                     "repo": "WaveRep-SyntheticVideoDetection",
                     "stars": 33,
@@ -687,7 +687,7 @@
                     "open_issues": 0,
                     "owner": "mldljyh",
                     "repo": "SPLIT",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -823,7 +823,7 @@
                     "open_issues": 27,
                     "owner": "chuangchuangtan",
                     "repo": "NPR-DeepfakeDetection",
-                    "stars": 319,
+                    "stars": 320,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:16:35.952Z",
+    "last_updated": "2026-11-19T01:48:45.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1116,8 +1116,8 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-11-17T06:09:31Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-18T06:07:06Z",
+      "open_issues": 7,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
       "stars": 496,
@@ -1129,7 +1129,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "fb48fdb5b063bcd9f6009b2d3d0761e1fe8954d9",
+    "original_repository_sha": "5133f13e679e33075d01afd0efcad7eaa3ed0eb0",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
