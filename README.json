@@ -15,7 +15,7 @@
             "id": 1411374190,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-05T07:37:16Z",
+            "last_commit": "2026-11-25T07:32:22Z",
             "open_issues": 1,
             "owner": "YuZijian",
             "repo": "WildAIGC-Bench",
@@ -288,7 +288,7 @@
                 "open_issues": 11,
                 "owner": "opendatalab",
                 "repo": "LEGION",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:08:33.742Z"
@@ -363,7 +363,7 @@
                     "open_issues": 2,
                     "owner": "XavierJiezou",
                     "repo": "UCF-Net",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-09-18T22:26:09.803Z"
@@ -489,7 +489,7 @@
                     "open_issues": 8,
                     "owner": "OUC-VAS",
                     "repo": "ForensicsAdapter",
-                    "stars": 116,
+                    "stars": 117,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -736,7 +736,7 @@
                     "open_issues": 1,
                     "owner": "roy-ch",
                     "repo": "Dual-Data-Alignment",
-                    "stars": 139,
+                    "stars": 138,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -823,7 +823,7 @@
                     "open_issues": 27,
                     "owner": "chuangchuangtan",
                     "repo": "NPR-DeepfakeDetection",
-                    "stars": 320,
+                    "stars": 321,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -1080,7 +1080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:27:15.171Z",
+    "last_updated": "2026-11-26T02:42:56.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1088,11 +1088,11 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-11-23T02:28:55Z",
+      "last_commit": "2026-11-26T02:08:54Z",
       "open_issues": 8,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 500,
+      "stars": 501,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
@@ -1101,7 +1101,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "34f6cf4fb606bac033b8fc5d7d291143f63a16e9",
+    "original_repository_sha": "5387e25c0eaa44405f528c205269c67461a1d0dc",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
