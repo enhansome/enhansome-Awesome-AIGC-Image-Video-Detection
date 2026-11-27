@@ -632,7 +632,7 @@
                     "open_issues": 5,
                     "owner": "ZSHsh98",
                     "repo": "NSG-VD",
-                    "stars": 86,
+                    "stars": 85,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -736,7 +736,7 @@
                     "open_issues": 1,
                     "owner": "roy-ch",
                     "repo": "Dual-Data-Alignment",
-                    "stars": 138,
+                    "stars": 139,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:08:33.742Z"
@@ -851,7 +851,7 @@
                     "open_issues": 0,
                     "owner": "rama0126",
                     "repo": "MSFD",
-                    "stars": 3,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-09-08T22:29:59.475Z"
@@ -868,7 +868,7 @@
                     "id": 1224404052,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T09:25:17Z",
+                    "last_commit": "2026-11-26T13:19:21Z",
                     "open_issues": 0,
                     "owner": "mever-team",
                     "repo": "WildFC",
@@ -1080,7 +1080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:42:56.689Z",
+    "last_updated": "2026-11-27T02:43:43.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of the latest research and resources on AI-Generated Image and Video Detection.",
@@ -1088,11 +1088,11 @@
       "id": 1192211679,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-11-26T02:08:54Z",
+      "last_commit": "2026-11-27T02:03:13Z",
       "open_issues": 8,
       "owner": "ant-research",
       "repo": "Awesome-AIGC-Image-Video-Detection",
-      "stars": 501,
+      "stars": 503,
       "topics": [
         "ai-generated-detection",
         "ai-generated-image-detection",
@@ -1101,7 +1101,7 @@
         "multimodal-large-language-models"
       ]
     },
-    "original_repository_sha": "5387e25c0eaa44405f528c205269c67461a1d0dc",
+    "original_repository_sha": "f310901743668d3752613971b77b372fe61a9261",
     "enhanced_repository": "enhansome/enhansome-Awesome-AIGC-Image-Video-Detection",
     "enhanced_repository_description": null,
     "title": "Awesome AIGC Image/Video Detection with stars"
